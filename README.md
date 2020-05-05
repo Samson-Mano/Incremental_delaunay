@@ -1,9 +1,9 @@
 # Delaunay triangulation using Incremental Algorithm
 This is a C# implementation of Bowyer-Watson Delaunay triangulation. The implementation follows incremental algorithm with each points added, the edges & triangles are recursively flipped to staisfy the circum circle condition.<br /><br />
-![](Images/divide_n_conquer_animated.gif)
-![](Images/edge_1000pts.png)
-![](Images/edge_1000pts_faces.png)
-![](/Images/edge_1000pts_incircle.png)
+![](/Delaunay_triangulation_incremental/Images/Bowyer%20Watson%20Incremental%20-%20Delaunay%20Triangulation%202020-05-04%2021-48-22.gif)
+![](/Delaunay_triangulation_incremental/Images/incremental_delaunay_mesh.png)
+![](/Delaunay_triangulation_incremental/Images/incremental_delaunay_mesh2.png)
+
 # References
 •	Bowyer Watson Algorithm<br />
  https://en.wikipedia.org/wiki/Bowyer%E2%80%93Watson_algorithm
