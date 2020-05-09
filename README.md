@@ -1,5 +1,6 @@
 # Delaunay triangulation using Incremental Algorithm
 This is a C# implementation of Bowyer-Watson Delaunay triangulation. The implementation follows incremental algorithm with each points added, the edges & triangles are recursively flipped to staisfy the circum circle condition.<br /><br />
+The explaination of algorithm is shown in<br /> https://sites.google.com/site/samsoninfinite/multivariable-calculus/constrained-delaunay-triangulation <br /><br />
 ![](/Delaunay_triangulation_incremental/Images/Bowyer_Watson_Incremental_gif_1.gif)<br /><br />
 ![](/Delaunay_triangulation_incremental/Images/incremental_delaunay_mesh.png)
 ![](/Delaunay_triangulation_incremental/Images/incremental_delaunay_mesh2.png)
